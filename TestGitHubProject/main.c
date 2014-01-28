@@ -7,5 +7,6 @@ int main(void) {
     WDTCTL = WDTPW | WDTHOLD;	// Stop watchdog timer
 
     /* Is it OK..? */
+    /* Second Commit to GitHub */
 	return 0;
 }
